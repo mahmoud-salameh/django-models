@@ -1,1 +1,1 @@
-PR:() 
+PR:(https://github.com/mahmoud-salameh/django-models/pull/1)
